@@ -1,5 +1,5 @@
 # mariadb-vagrant
-A simple vagrant box with MariaDB 10.
+A simple vagrant box with MariaDB 10 and CentOS 7.1.
 
 ## Getting started
 1. Clone this repository
