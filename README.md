@@ -5,6 +5,8 @@ A simple vagrant box with MariaDB 10 and CentOS 7.1.
 1. Clone this repository
 2. Run `vagrant up`
 
+After the initial install, run `vagrant reload` to restart the VM. This will refresh the port forwarding.
+
 ## Connecting to MariaDB
 Using any client that connects to MySQL, use the following settings:
 
