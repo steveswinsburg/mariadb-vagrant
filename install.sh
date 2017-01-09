@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-# This script automatically installs and configures MariaDB 10.
+# This script automatically installs and configures MariaDB 10.1.
 
 # copy repo file
 sudo cp /vagrant/mariadb.repo /etc/yum.repos.d/
